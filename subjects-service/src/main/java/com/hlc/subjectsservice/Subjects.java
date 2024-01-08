@@ -5,5 +5,5 @@ import java.util.List;
 
 public interface Subjects {
     @GetMapping("/subjects")
-    List<String> getAllSubjects();
+    List<Subject> getAllSubjects();
 }
