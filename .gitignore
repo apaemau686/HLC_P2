@@ -1,0 +1,64 @@
+# Compiled class file
+*.class
+
+# Log files
+log/
+*.log
+
+# Compiled files
+target/
+bin/
+lib/
+*.jar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse files
+.settings/
+
+# Gradle files
+.gradle/
+build/
+
+# MacOS
+.DS_Store
+
+# IntelliJ
+.idea/
+
+# Spring Boot
+spring-boot-starter-*/target/
+spring-boot-starter-*/build/
+
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# Application properties
+application.properties
+application.yml
+application.yaml
+
+# Spring Boot devtools
+restart.log
+
+# Thymeleaf
+templates/
+
+# JAR files
+*.jar
+
+# H2 Database
+db.h2.*
+
+# Test configuration
+test-output/
+
+# Your specific application properties
+application-local.properties
